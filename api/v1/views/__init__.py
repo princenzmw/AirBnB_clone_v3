@@ -1,5 +1,4 @@
-  
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Init file for views module"""
 from flask import Blueprint
 
